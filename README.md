@@ -1,1 +1,0 @@
-# aws-static-website-demo
